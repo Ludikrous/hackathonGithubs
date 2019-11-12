@@ -2,6 +2,6 @@
 
 To contribute:
 
-Fork repository
-Edit README.md (Markdown cheatsheet)
-Open a pull request!
+1. Fork repository
+2. Edit README.md (Markdown cheatsheet)
+3. Open a pull request!
